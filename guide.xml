@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Caracol (Colombia)">
+    <display-name lang="es">Caracol (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Caracol HD">
+    <display-name lang="es">Caracol HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Canal 1">
+    <display-name lang="es">Canal 1</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="RCN HD (Colombia)">
+    <display-name lang="es">RCN HD (Colombia)</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="NTN24 (Colombia)">
+    <display-name lang="es">NTN24 (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/1337ac8d45711ca3591d5a03b2c1a70c.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Telecaribe (Colombia)">
+    <display-name lang="es">Telecaribe (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7eab0134ef8ed03eb2d59b77711cbd98.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Teleantioquia (Colombia)">
+    <display-name lang="es">Teleantioquia (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/f9f5f876d968707b89b70190626edfc0.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Telepacifico (Colombia)">
+    <display-name lang="es">Telepacifico (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/699af5aa4249ba7085bf0724f13a0ece.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Telecafe (Colombia)">
+    <display-name lang="es">Telecafe (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b3aef974216995f45cbb271e6be36964.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Cosmovision">
+    <display-name lang="es">Cosmovision</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e91f1842402d1a4a643eb88fa4225b13.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="Canal Institucional (Colombia)">
+    <display-name lang="es">Canal Institucional (Colombia)</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ec1af6e4bf801b6b3646447296831ba9.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TVAgro">
+    <display-name lang="es">TVAgro</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/aa6e0fc72ff5c52e9b1338f308668acd.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="RCN">
+    <display-name lang="es">RCN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/cf484136df087e299aa4f0783c401289.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL TRO">
+    <display-name lang="es">CANAL TRO</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/a292e954bde8a0af30ccf2d36913e03e.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CABLENOTICIAS">
+    <display-name lang="es">CABLENOTICIAS</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b5541f3f9e643c4341f0e0e6382a049f.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CITY TV">
+    <display-name lang="es">CITY TV</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/e3eeba8d30ab4a97d02ac17a916f1f1a.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TELECAFE">
+    <display-name lang="es">TELECAFE</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/b3aef974216995f45cbb271e6be36964.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="TV AGRO HD">
+    <display-name lang="es">TV AGRO HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="UNO HD">
+    <display-name lang="es">UNO HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <programme start="20200704000000 +0000" stop="20200704013000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704030000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">La Venganza De Analia</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704040000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704043000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704053000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Rafael Orozco, El Ídolo</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704070000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">De Que Te Quiero, Te Quiero</title>
+  </programme>
+  <programme start="20200704070000 +0000" stop="20200704100000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704120000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Doble Vía</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704133000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704141500 +0000" channel="Caracol (Colombia)">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20200704141500 +0000" stop="20200704151500 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Chespirito</title>
+  </programme>
+  <programme start="20200704151500 +0000" stop="20200704173000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Vive El Gol Caracol</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704200000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704223000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704233000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Se Dice De Mi</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="Caracol (Colombia)">
+    <title lang="es">Contagiémonos De Solidaridad</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704010000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704020000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Cuestión De Poder</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704030000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Zoom A La Noticia</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704040000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704050000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704060000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200704060000 +0000" stop="20200704070000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20200704070000 +0000" stop="20200704080000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704083000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Efecto Naím</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704090000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Líderes</title>
+  </programme>
+  <programme start="20200704090000 +0000" stop="20200704100000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Zoom A La Noticia</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704110000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704120000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704130000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Click Verde</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Líderes</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704150000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Visión Global</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704155500 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20200704155500 +0000" stop="20200704160000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Titulares De La Hora</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704170000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Cuestión De Poder</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704180000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Informativo NTN</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704190000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Club De Prensa</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704190500 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Titulares De La Hora</title>
+  </programme>
+  <programme start="20200704190500 +0000" stop="20200704200000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Flash Fashion</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704210000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Zoom A La Noticia</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704220000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Tarde FDS</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704230000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">La Tarde FDS</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Efecto Naím</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="NTN24 (Colombia)">
+    <title lang="es">Líderes</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704000200 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Intervención Partidos Políticos</title>
+  </programme>
+  <programme start="20200704000200 +0000" stop="20200704003000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">La Cancha</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704013000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Noticias Telecaribe Regional Cv Noticias</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704013300 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sorteo La Fantástica</title>
+  </programme>
+  <programme start="20200704013300 +0000" stop="20200704013500 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">El Boletín Del Consumidor</title>
+  </programme>
+  <programme start="20200704013500 +0000" stop="20200704020000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Aníbal ´Sensación´ Velásquez</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704023000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">El Patio</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704033000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Detrás Del Ring: Salvador Sánchez Vs Wilfredo Gómez</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704033300 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sorteo El Sinuano</title>
+  </programme>
+  <programme start="20200704033300 +0000" stop="20200704033600 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sorteo La Caribeña</title>
+  </programme>
+  <programme start="20200704033600 +0000" stop="20200704043000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Emisiones Presidenciales: Prevención Y Acción</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704050000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">La Hora Del Milagro 2020</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704100000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Cierre De Programación</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">La Hora Del Milagro 2020</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Alza Tus Ojos</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Valores</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Tiempos De Refrigerios</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Dios Fuente De Poder</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Infantil Telecaribe Mira Lo Que Pasa</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Infantil Telecaribe</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Infantil Telecaribe Paz De Mía</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704143000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Infantil Telecaribe Cronografía</title>
+  </programme>
+  <programme start="20200704143000 +0000" stop="20200704150000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Infantil Telecaribe Sin Filtro</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704153000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Vida Para Tu Cuerpo</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704160000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Hagámoslo Rico</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Vida Para Tu Cuerpo</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Semblanzas Con Toño Sánchez</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">El Pulso De La Región</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704175800 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sin Ir Más Lejos</title>
+  </programme>
+  <programme start="20200704175800 +0000" stop="20200704180000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sorteo La Fantástica</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704183000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sucesos</title>
+  </programme>
+  <programme start="20200704183000 +0000" stop="20200704190000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Capicúa</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Charlas Trendy Con Susy Carbó</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704193300 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sorteo El Sinuano</title>
+  </programme>
+  <programme start="20200704193300 +0000" stop="20200704193600 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Sorteo La Caribeña</title>
+  </programme>
+  <programme start="20200704193600 +0000" stop="20200704200000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">9 Innings</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Telecaribe Más Deportes</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704210000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Entrevista De La Rt</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704213000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Tc039</title>
+  </programme>
+  <programme start="20200704213000 +0000" stop="20200704220000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Cocina De Inmigrantes</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704223000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">El Colectivo</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Ríos Y Mar Adentro</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">El Contenedor</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="Telecaribe (Colombia)">
+    <title lang="es">Emisiones Presidenciales: Prevención Y Acción</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704010000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Teleantioquia Noticias Emisión Central</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704020000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Super Liga Teleantioquia De Billar</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704033000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">En Casa Con Telenatioquia</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704040000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Directo Al Corazón</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704043000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Teleantioquia Noticias Última Emisión</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704050000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Sabor De Mi Tierra</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704060000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Con Todo El Amor</title>
+  </programme>
+  <programme start="20200704060000 +0000" stop="20200704070000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Teleantioquia Noticias</title>
+  </programme>
+  <programme start="20200704070000 +0000" stop="20200704073000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Dos Extremos</title>
+  </programme>
+  <programme start="20200704073000 +0000" stop="20200704080000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Una En Millón</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704083000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Más Alla Del Tiempo</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704100000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Profes Melos</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704110000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Su Médico En Casa</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Documentales Antv</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Encuentro</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Una En Millón</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">La Tierra Los Animales Y El Hombre</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Musas</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704143000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Pata De Perro</title>
+  </programme>
+  <programme start="20200704143000 +0000" stop="20200704150000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Franja Min Ciencias</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704153000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Expedición Antioquia</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704160000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">De Donde Vengo Yo</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">La Sartén Por El Mango</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704173000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Super Liga Teleantioquia De Billar</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704180000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Alcaldía De Itagüí</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704190000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Teleantioquia Noticias</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Casa Deportes</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Visión Solidaria</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704230000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">El Bazar</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200705000000 +0000" channel="Teleantioquia (Colombia)">
+    <title lang="es">Especial Presidencia Decreto Aislamiento Preventivo Obligatorio</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704003000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Informativo Del Congreso</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704013000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Espacio Propio De Telepacifico</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704013500 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Cuentos Verdes</title>
+  </programme>
+  <programme start="20200704013500 +0000" stop="20200704020500 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Noticiero Noti-5</title>
+  </programme>
+  <programme start="20200704020500 +0000" stop="20200704021500 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Informativo De La Gobernación Del Valle ´El Valle Está En Vos´</title>
+  </programme>
+  <programme start="20200704021500 +0000" stop="20200704022000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Agenda Vital Para Un Valle Invencible</title>
+  </programme>
+  <programme start="20200704022000 +0000" stop="20200704024000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">El 2 Que Era El 1</title>
+  </programme>
+  <programme start="20200704024000 +0000" stop="20200704025900 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Rendición De Cuentas Telepacífico</title>
+  </programme>
+  <programme start="20200704025900 +0000" stop="20200704030000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Boletín Del Consumidor</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704033000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Espacio Propio De Telepacifico</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704040000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Franja Inclusión</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704041000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Informativo De La Gobernación Del Valle ´El Valle Está En Vos´</title>
+  </programme>
+  <programme start="20200704041000 +0000" stop="20200704050000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">De Borondo Con César</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704053000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Bajo Urubamba El Bosque De Los Misterios</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704063000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Etiquetas</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704070000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Franja Inclusión</title>
+  </programme>
+  <programme start="20200704070000 +0000" stop="20200704073000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Bajo Urubamba El Bosque De Los Misterios</title>
+  </programme>
+  <programme start="20200704073000 +0000" stop="20200704080000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Bajo El Mismo Cielo</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704090000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Rebambaramba</title>
+  </programme>
+  <programme start="20200704090000 +0000" stop="20200704093000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Franja Inclusión</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704103000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Etiquetas</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704105500 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Franja Inclusión</title>
+  </programme>
+  <programme start="20200704105500 +0000" stop="20200704110000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Himnos Nacional Y Valle Del Cauca</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Gloria Que Transforma</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Madre Agua</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">La Selfie De Ela</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Talla S</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Talla S</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Familia López Gómez</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704143000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">De Rebote</title>
+  </programme>
+  <programme start="20200704143000 +0000" stop="20200704150000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Argumentistas</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704153000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Zona Fantasmal</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704160000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Efecto Mariposa</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">La Selfie De Ela</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Así Nos Ven</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704175900 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Sarmiento Tv</title>
+  </programme>
+  <programme start="20200704175900 +0000" stop="20200704180000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Chontico</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704184500 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Telepacífico Noticias</title>
+  </programme>
+  <programme start="20200704184500 +0000" stop="20200704185500 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Informativo De La Gobernación Del Valle ´El Valle Está En Vos´</title>
+  </programme>
+  <programme start="20200704185500 +0000" stop="20200704190000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">El Último Testigo</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704200000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Libertador</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704210000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Etiquetas</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704220000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">La Rebambaramba</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704225700 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">De Borondo Con César</title>
+  </programme>
+  <programme start="20200704225700 +0000" stop="20200704230000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">Interferencias</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705010000 +0000" channel="Telepacifico (Colombia)">
+    <title lang="es">La Música De Mi Pueblo</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704003000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Mujeres Que Inspiran</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704010000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Hablemos De Caldas</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704020000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704020500 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">5 Minutos Tu Y Yo</title>
+  </programme>
+  <programme start="20200704020500 +0000" stop="20200704023000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Las Ausentes</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704033000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Área 53</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704040000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Buscando El Mito</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704041500 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Lotería Del Risaralda</title>
+  </programme>
+  <programme start="20200704041500 +0000" stop="20200704053000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Programa Especial De La Presidencia De La Republica</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704063000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704080000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Tome Nota</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704090000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704090000 +0000" stop="20200704093000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Entrevista Rt</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704100000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Las Ausentes</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Triunfadores</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Conexión Vital</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Las Aventuras Del Profesor Yarumo</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Campo Al Campo</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Salud Para Todos</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Telecafé Te Ve</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704170000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Diverti2</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704174500 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">El Profesor Super O</title>
+  </programme>
+  <programme start="20200704174500 +0000" stop="20200704180000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Ciencihéroes</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704190000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Andanzas</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Transmisión Especial</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Salud Para Todos</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704223000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Telecafé Deportes</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Pasión Café</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Magazin Vistazo</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="Telecafe (Colombia)">
+    <title lang="es">Programa Especial De La Presidencia De La Republica</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704003000 +0000" channel="Cosmovision">
+    <title lang="es">Cita con...Vibart</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704010000 +0000" channel="Cosmovision">
+    <title lang="es">Sinergia Informativa</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704013000 +0000" channel="Cosmovision">
+    <title lang="es">Misa</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704020000 +0000" channel="Cosmovision">
+    <title lang="es">Cual Es El Cuento</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704040000 +0000" channel="Cosmovision">
+    <title lang="es">Nos Cogio La Noche</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704043000 +0000" channel="Cosmovision">
+    <title lang="es">Sinergia Informativa</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704050000 +0000" channel="Cosmovision">
+    <title lang="es">Cual Es El Cuento</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704060000 +0000" channel="Cosmovision">
+    <title lang="es">Nos Cogio La Noche</title>
+  </programme>
+  <programme start="20200704060000 +0000" stop="20200704080000 +0000" channel="Cosmovision">
+    <title lang="es">Nos Cogio La Noche</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704083000 +0000" channel="Cosmovision">
+    <title lang="es">Tu Cocina Kalley</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704103000 +0000" channel="Cosmovision">
+    <title lang="es">Nos Cogio La Noche</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="Cosmovision">
+    <title lang="es">Cual Es El Cuento</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704120000 +0000" channel="Cosmovision">
+    <title lang="es">Nos Cogió La Noche</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Cosmovision">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="Cosmovision">
+    <title lang="es">Kirya</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="Cosmovision">
+    <title lang="es">Guardianes Salud</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="Cosmovision">
+    <title lang="es">Para Ti Mujer</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704143000 +0000" channel="Cosmovision">
+    <title lang="es">Tv Novedades Tv</title>
+  </programme>
+  <programme start="20200704143000 +0000" stop="20200704150000 +0000" channel="Cosmovision">
+    <title lang="es">Joao</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704153000 +0000" channel="Cosmovision">
+    <title lang="es">Tv Novedades Tv</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704160000 +0000" channel="Cosmovision">
+    <title lang="es">Gorditos De Corazón</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="Cosmovision">
+    <title lang="es">TV Ideas</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="Cosmovision">
+    <title lang="es">S.O.S. Para Tu Vida</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="Cosmovision">
+    <title lang="es">Kirya</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704180000 +0000" channel="Cosmovision">
+    <title lang="es">Negocios En Tu Mundo</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704183000 +0000" channel="Cosmovision">
+    <title lang="es">TV Ideas</title>
+  </programme>
+  <programme start="20200704183000 +0000" stop="20200704190000 +0000" channel="Cosmovision">
+    <title lang="es">Cual Es El Cuento</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="Cosmovision">
+    <title lang="es">Juan Agudelo</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="Cosmovision">
+    <title lang="es">Tv Novedades Tv</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="Cosmovision">
+    <title lang="es">Destinos Cosmovisión</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704210000 +0000" channel="Cosmovision">
+    <title lang="es">Cual Es El Cuento</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704213000 +0000" channel="Cosmovision">
+    <title lang="es">Gorditos De Corazón</title>
+  </programme>
+  <programme start="20200704213000 +0000" stop="20200704220000 +0000" channel="Cosmovision">
+    <title lang="es">Tu Cocina</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704223000 +0000" channel="Cosmovision">
+    <title lang="es">Tv Novedades Tv</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="Cosmovision">
+    <title lang="es">Cita con...Vibart</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="Cosmovision">
+    <title lang="es">Tv Novedades Tv</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="Cosmovision">
+    <title lang="es">Destinos Cosmovisión</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704000200 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20200704000200 +0000" stop="20200704003000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704010000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704013000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704020000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Educación Y Desarrollo</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704021500 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20200704021500 +0000" stop="20200704022500 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Informativo Al Día A Las 9</title>
+  </programme>
+  <programme start="20200704022500 +0000" stop="20200704023000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Cápsulas Informativas</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704030000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">La Clase</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704040000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704050000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Franja Documental Encuadre Real - Inmigrantes</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704053000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704060000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Cápsulas Presidencia</title>
+  </programme>
+  <programme start="20200704060000 +0000" stop="20200704063000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Mujer Es Saber</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704070000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Educación Y Desarrollo</title>
+  </programme>
+  <programme start="20200704070000 +0000" stop="20200704073000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20200704073000 +0000" stop="20200704080000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704083000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704090000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Más Tic, Mejor País</title>
+  </programme>
+  <programme start="20200704090000 +0000" stop="20200704093000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704100000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Nuestra Huella</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Procuradauría Ciudadana</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704123200 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20200704123200 +0000" stop="20200704131500 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20200704131500 +0000" stop="20200704133000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Economía Creativa</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704163000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704180000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Visión Futuro</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704183000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200704183000 +0000" stop="20200704183200 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20200704183200 +0000" stop="20200704190000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Construyendo Futuro</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704213000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Córdova, Un General Llamado Arrojo</title>
+  </programme>
+  <programme start="20200704213000 +0000" stop="20200704220000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704223000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Patrimonio Mundial</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Mis Manos Te Enseñan Tv</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="Canal Institucional (Colombia)">
+    <title lang="es">Facebook Live Del Presidente Iván Duque</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704003000 +0000" channel="TVAgro">
+    <title lang="es">En Foco</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704010000 +0000" channel="TVAgro">
+    <title lang="es">Transformadores Del Campo</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704013000 +0000" channel="TVAgro">
+    <title lang="es">Hábitat</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704020000 +0000" channel="TVAgro">
+    <title lang="es">Latitud</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704023000 +0000" channel="TVAgro">
+    <title lang="es">Cascos Y Riendas</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704030000 +0000" channel="TVAgro">
+    <title lang="es">En Foco</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704033000 +0000" channel="TVAgro">
+    <title lang="es">En Foco</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704040000 +0000" channel="TVAgro">
+    <title lang="es">Universo Animal</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704043000 +0000" channel="TVAgro">
+    <title lang="es">Entre Establos Y Praderas</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704050000 +0000" channel="TVAgro">
+    <title lang="es">Transformadores Del Campo</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704053000 +0000" channel="TVAgro">
+    <title lang="es">El Sembrador Y La Tierra</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704060000 +0000" channel="TVAgro">
+    <title lang="es">Tvgan Gran Vitrina Ganadera</title>
+  </programme>
+  <programme start="20200704060000 +0000" stop="20200704063000 +0000" channel="TVAgro">
+    <title lang="es">Tvgan Gran Vitrina Ganadera</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704070000 +0000" channel="TVAgro">
+    <title lang="es">Al Día Con El Agro</title>
+  </programme>
+  <programme start="20200704070000 +0000" stop="20200704073000 +0000" channel="TVAgro">
+    <title lang="es">Aroma Y Color</title>
+  </programme>
+  <programme start="20200704073000 +0000" stop="20200704080000 +0000" channel="TVAgro">
+    <title lang="es">Cascos Y Riendas</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704083000 +0000" channel="TVAgro">
+    <title lang="es">En Foco</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704090000 +0000" channel="TVAgro">
+    <title lang="es">Al Día Con El Agro</title>
+  </programme>
+  <programme start="20200704090000 +0000" stop="20200704093000 +0000" channel="TVAgro">
+    <title lang="es">Transformadores Del Campo</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704100000 +0000" channel="TVAgro">
+    <title lang="es">Huellas</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="TVAgro">
+    <title lang="es">Universo Animal</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="TVAgro">
+    <title lang="es">El Sembrador Y La Tierra</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="TVAgro">
+    <title lang="es">Latitud</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="TVAgro">
+    <title lang="es">Entre Establos Y Praderas</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="TVAgro">
+    <title lang="es">TVgan</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="TVAgro">
+    <title lang="es">TVgan</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="TVAgro">
+    <title lang="es">TVgan</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="TVAgro">
+    <title lang="es">TVgan - El Ganado</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704143000 +0000" channel="TVAgro">
+    <title lang="es">Latitud</title>
+  </programme>
+  <programme start="20200704143000 +0000" stop="20200704150000 +0000" channel="TVAgro">
+    <title lang="es">Frente Al Acontecer Del Campo</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704153000 +0000" channel="TVAgro">
+    <title lang="es">Entre Establos Y Praderas</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704160000 +0000" channel="TVAgro">
+    <title lang="es">Transformadores Del Campo</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="TVAgro">
+    <title lang="es">Huellas</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="TVAgro">
+    <title lang="es">Universo Animal</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="TVAgro">
+    <title lang="es">El Sembrador Y La Tierra</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704180000 +0000" channel="TVAgro">
+    <title lang="es">Hábitat</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704183000 +0000" channel="TVAgro">
+    <title lang="es">Aroma Y Color</title>
+  </programme>
+  <programme start="20200704183000 +0000" stop="20200704190000 +0000" channel="TVAgro">
+    <title lang="es">Cascos Y Riendas</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="TVAgro">
+    <title lang="es">En Foco</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="TVAgro">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="TVAgro">
+    <title lang="es">Transformadores Del Campo</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704210000 +0000" channel="TVAgro">
+    <title lang="es">Latitud</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704213000 +0000" channel="TVAgro">
+    <title lang="es">Huellas</title>
+  </programme>
+  <programme start="20200704213000 +0000" stop="20200704220000 +0000" channel="TVAgro">
+    <title lang="es">Universo Animal</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704223000 +0000" channel="TVAgro">
+    <title lang="es">TVgan</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="TVAgro">
+    <title lang="es">TVgan</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="TVAgro">
+    <title lang="es">TVgan</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="TVAgro">
+    <title lang="es">TVgan - El Ganado</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704010000 +0000" channel="RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704020000 +0000" channel="RCN">
+    <title lang="es">Diomedes</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704030000 +0000" channel="RCN">
+    <title lang="es">Amor Sincero</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704040000 +0000" channel="RCN">
+    <title lang="es">Verdad Oculta</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704050000 +0000" channel="RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704055000 +0000" channel="RCN">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20200704055000 +0000" stop="20200704062000 +0000" channel="RCN">
+    <title lang="es">Contacto Astral</title>
+  </programme>
+  <programme start="20200704062000 +0000" stop="20200704080000 +0000" channel="RCN">
+    <title lang="es">La Viuda De La Mafia</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704084000 +0000" channel="RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20200704084000 +0000" stop="20200704095000 +0000" channel="RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20200704095000 +0000" stop="20200704103000 +0000" channel="RCN">
+    <title lang="es">Betty Toons</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704120000 +0000" channel="RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="RCN">
+    <title lang="es">Tu Tele</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704153000 +0000" channel="RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704173000 +0000" channel="RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704193000 +0000" channel="RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704220000 +0000" channel="RCN">
+    <title lang="es">Nuestro Cine: Velocidad Mortal</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704233000 +0000" channel="RCN">
+    <title lang="es">Los Reyes</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="RCN">
+    <title lang="es">Contagiémonos De Solidaridad</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704003000 +0000" channel="CANAL TRO">
+    <title lang="es">Historias De Paz</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704013000 +0000" channel="CANAL TRO">
+    <title lang="es">Oro Noticias</title>
+  </programme>
+  <programme start="20200704013000 +0000" stop="20200704020000 +0000" channel="CANAL TRO">
+    <title lang="es">Sana Distancia</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704023000 +0000" channel="CANAL TRO">
+    <title lang="es">Sea Horses</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704030000 +0000" channel="CANAL TRO">
+    <title lang="es">Editorial Oriente Noticias</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704043000 +0000" channel="CANAL TRO">
+    <title lang="es">Oriente Noticias</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704050000 +0000" channel="CANAL TRO">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704053000 +0000" channel="CANAL TRO">
+    <title lang="es">Intimamente Con Jannin</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704063000 +0000" channel="CANAL TRO">
+    <title lang="es">Oriente Noticas</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704070300 +0000" channel="CANAL TRO">
+    <title lang="es">Actue En Derecho</title>
+  </programme>
+  <programme start="20200704070300 +0000" stop="20200704080000 +0000" channel="CANAL TRO">
+    <title lang="es">Casilda, Grito De La Libertad</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704083000 +0000" channel="CANAL TRO">
+    <title lang="es">Musical Tro</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704093000 +0000" channel="CANAL TRO">
+    <title lang="es">Aires De Mi Tierra</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704100000 +0000" channel="CANAL TRO">
+    <title lang="es">Campo Al Campo</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704113000 +0000" channel="CANAL TRO">
+    <title lang="es">Oriente Noticias</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="CANAL TRO">
+    <title lang="es">Foro Interamericano</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704130000 +0000" channel="CANAL TRO">
+    <title lang="es">Diverti 2</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="CANAL TRO">
+    <title lang="es">¿Qué Harías Tú</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="CANAL TRO">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704150000 +0000" channel="CANAL TRO">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704153000 +0000" channel="CANAL TRO">
+    <title lang="es">El Profesor Super O</title>
+  </programme>
+  <programme start="20200704153000 +0000" stop="20200704160000 +0000" channel="CANAL TRO">
+    <title lang="es">Iron Kid</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="CANAL TRO">
+    <title lang="es">Mira Lo Que Pasa</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="CANAL TRO">
+    <title lang="es">A Fondo</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="CANAL TRO">
+    <title lang="es">Economia Creativa</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704180000 +0000" channel="CANAL TRO">
+    <title lang="es">Reporteros En El Mundo</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704190000 +0000" channel="CANAL TRO">
+    <title lang="es">Oriente Noticias</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704200000 +0000" channel="CANAL TRO">
+    <title lang="es">Vallenatro</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="CANAL TRO">
+    <title lang="es">Fuerza Latina</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704210000 +0000" channel="CANAL TRO">
+    <title lang="es">Con Sabor Y Saber</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704220000 +0000" channel="CANAL TRO">
+    <title lang="es">Musical Tro</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704223000 +0000" channel="CANAL TRO">
+    <title lang="es">Ole Mano</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="CANAL TRO">
+    <title lang="es">Familia Reclamo</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="CANAL TRO">
+    <title lang="es">Noticiero De La Camara</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="CANAL TRO">
+    <title lang="es">Control Tv</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704010000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Hoy En El Mundo</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704020000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Franja Especiales</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704030000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Cable Noticias</title>
+  </programme>
+  <programme start="20200704030000 +0000" stop="20200704033000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">La Otra Cara De La Moneda</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704043000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Cable Noticias</title>
+  </programme>
+  <programme start="20200704043000 +0000" stop="20200704050000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Impacto TDN</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704053000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Testigo Directo</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704063000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Hoy En El Mundo</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704073000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Cable Noticias</title>
+  </programme>
+  <programme start="20200704073000 +0000" stop="20200704083000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Hoy En El Mundo</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704093000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Cable Noticias</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704100000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Testigo Directo</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">35 Milímetros</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Económico</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704120000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Cable Noticias</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Especial De Salud</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Especial De Salud</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Especial De Salud</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704140000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Especial De Salud</title>
+  </programme>
+  <programme start="20200704140000 +0000" stop="20200704150000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Franja Especiales</title>
+  </programme>
+  <programme start="20200704150000 +0000" stop="20200704160000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Hechos Y Crónicas</title>
+  </programme>
+  <programme start="20200704160000 +0000" stop="20200704163000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Deportivo</title>
+  </programme>
+  <programme start="20200704163000 +0000" stop="20200704170000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Especial De Salud</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Impacto TDN</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704180000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Economía Al Día</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704183000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Internacional</title>
+  </programme>
+  <programme start="20200704183000 +0000" stop="20200704190000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Deportivo</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Nacional</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Especial De Salud</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Económico</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704210000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Internacional</title>
+  </programme>
+  <programme start="20200704210000 +0000" stop="20200704213000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Impacto TDN</title>
+  </programme>
+  <programme start="20200704213000 +0000" stop="20200704220000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Análisis Mundial</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704223000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">VOA - Venezuela 360</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">35 Milímetros</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Deportivo</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="CABLENOTICIAS">
+    <title lang="es">Resumen Económico</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704010000 +0000" channel="CITY TV">
+    <title lang="es">Inocente De Ti</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704023000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704033000 +0000" channel="CITY TV">
+    <title lang="es">CSI Las Vegas 2</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704050000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20200704050000 +0000" stop="20200704053000 +0000" channel="CITY TV">
+    <title lang="es">Comercial Religioso</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704083000 +0000" channel="CITY TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20200704083000 +0000" stop="20200704093000 +0000" channel="CITY TV">
+    <title lang="es">Fuera Del Aire</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704110000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704123000 +0000" channel="CITY TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704170000 +0000" channel="CITY TV">
+    <title lang="es">Bravissimo</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704180000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704190000 +0000" channel="CITY TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704203000 +0000" channel="CITY TV">
+    <title lang="es">El Pajaro Loco</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704220000 +0000" channel="CITY TV">
+    <title lang="es">El Gato Cosmico</title>
+  </programme>
+  <programme start="20200704220000 +0000" stop="20200704233000 +0000" channel="CITY TV">
+    <title lang="es">Los Supersonicos</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="CITY TV">
+    <title lang="es">Programa Presidencia De La Repùblica</title>
+  </programme>
+  <programme start="20200704000000 +0000" stop="20200704003000 +0000" channel="TELECAFE">
+    <title lang="es">Mujeres Que Inspiran</title>
+  </programme>
+  <programme start="20200704003000 +0000" stop="20200704010000 +0000" channel="TELECAFE">
+    <title lang="es">Hablemos De Caldas</title>
+  </programme>
+  <programme start="20200704010000 +0000" stop="20200704020000 +0000" channel="TELECAFE">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704020000 +0000" stop="20200704020500 +0000" channel="TELECAFE">
+    <title lang="es">5 Minutos Tu Y Yo</title>
+  </programme>
+  <programme start="20200704020500 +0000" stop="20200704023000 +0000" channel="TELECAFE">
+    <title lang="es">Las Ausentes</title>
+  </programme>
+  <programme start="20200704023000 +0000" stop="20200704033000 +0000" channel="TELECAFE">
+    <title lang="es">Área 53</title>
+  </programme>
+  <programme start="20200704033000 +0000" stop="20200704040000 +0000" channel="TELECAFE">
+    <title lang="es">Buscando El Mito</title>
+  </programme>
+  <programme start="20200704040000 +0000" stop="20200704041500 +0000" channel="TELECAFE">
+    <title lang="es">Lotería Del Risaralda</title>
+  </programme>
+  <programme start="20200704041500 +0000" stop="20200704053000 +0000" channel="TELECAFE">
+    <title lang="es">Programa Especial De La Presidencia De La Republica</title>
+  </programme>
+  <programme start="20200704053000 +0000" stop="20200704063000 +0000" channel="TELECAFE">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704063000 +0000" stop="20200704080000 +0000" channel="TELECAFE">
+    <title lang="es">Tome Nota</title>
+  </programme>
+  <programme start="20200704080000 +0000" stop="20200704090000 +0000" channel="TELECAFE">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704090000 +0000" stop="20200704093000 +0000" channel="TELECAFE">
+    <title lang="es">Entrevista Rt</title>
+  </programme>
+  <programme start="20200704093000 +0000" stop="20200704100000 +0000" channel="TELECAFE">
+    <title lang="es">Las Ausentes</title>
+  </programme>
+  <programme start="20200704100000 +0000" stop="20200704103000 +0000" channel="TELECAFE">
+    <title lang="es">Triunfadores</title>
+  </programme>
+  <programme start="20200704103000 +0000" stop="20200704110000 +0000" channel="TELECAFE">
+    <title lang="es">Conexión Vital</title>
+  </programme>
+  <programme start="20200704110000 +0000" stop="20200704113000 +0000" channel="TELECAFE">
+    <title lang="es">Las Aventuras Del Profesor Yarumo</title>
+  </programme>
+  <programme start="20200704113000 +0000" stop="20200704120000 +0000" channel="TELECAFE">
+    <title lang="es">Campo Al Campo</title>
+  </programme>
+  <programme start="20200704120000 +0000" stop="20200704123000 +0000" channel="TELECAFE">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20200704123000 +0000" stop="20200704130000 +0000" channel="TELECAFE">
+    <title lang="es">Salud Para Todos</title>
+  </programme>
+  <programme start="20200704130000 +0000" stop="20200704133000 +0000" channel="TELECAFE">
+    <title lang="es">Telecafé Te Ve</title>
+  </programme>
+  <programme start="20200704133000 +0000" stop="20200704170000 +0000" channel="TELECAFE">
+    <title lang="es">Diverti2</title>
+  </programme>
+  <programme start="20200704170000 +0000" stop="20200704173000 +0000" channel="TELECAFE">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20200704173000 +0000" stop="20200704174500 +0000" channel="TELECAFE">
+    <title lang="es">El Profesor Super O</title>
+  </programme>
+  <programme start="20200704174500 +0000" stop="20200704180000 +0000" channel="TELECAFE">
+    <title lang="es">Ciencihéroes</title>
+  </programme>
+  <programme start="20200704180000 +0000" stop="20200704190000 +0000" channel="TELECAFE">
+    <title lang="es">Telecafé Noticias</title>
+  </programme>
+  <programme start="20200704190000 +0000" stop="20200704193000 +0000" channel="TELECAFE">
+    <title lang="es">Andanzas</title>
+  </programme>
+  <programme start="20200704193000 +0000" stop="20200704200000 +0000" channel="TELECAFE">
+    <title lang="es">Transmisión Especial</title>
+  </programme>
+  <programme start="20200704200000 +0000" stop="20200704203000 +0000" channel="TELECAFE">
+    <title lang="es">Salud Para Todos</title>
+  </programme>
+  <programme start="20200704203000 +0000" stop="20200704223000 +0000" channel="TELECAFE">
+    <title lang="es">Telecafé Deportes</title>
+  </programme>
+  <programme start="20200704223000 +0000" stop="20200704230000 +0000" channel="TELECAFE">
+    <title lang="es">Pasión Café</title>
+  </programme>
+  <programme start="20200704230000 +0000" stop="20200704233000 +0000" channel="TELECAFE">
+    <title lang="es">Magazin Vistazo</title>
+  </programme>
+  <programme start="20200704233000 +0000" stop="20200705000000 +0000" channel="TELECAFE">
+    <title lang="es">Programa Especial De La Presidencia De La Republica</title>
+  </programme>
+</tv>
