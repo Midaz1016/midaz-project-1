@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Caracol HD">
-    <display-name lang="es">Caracol HD</display-name>
+  <channel id="Caracol (Colombia)">
+    <display-name lang="es">Caracol (Colombia)</display-name>
     <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
     <url>http://www.claro.com</url>
   </channel>
