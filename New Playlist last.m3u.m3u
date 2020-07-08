@@ -1,0 +1,334 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Caracol%20HD.png" group-title="Colombia", Caracol HD ( CO)
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=8RSM2jJ3xHkc4OnLCnLspF7s0vmGAamz&sid=AkxpQdl14yjq69kPSwwLNx1D9oUle7Vr&pid=OpMz0lmby6wsHS0kOc4fdRnD2zwuif05&an=screen&at=web-app&av=v5.2.4&ref=https%3A%2F%2Flive2.caracoltv.com%2FplayerSelectorCS%2Fplayer.html&res=393x250&dnt=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://canalesdefutbol.000webhostapp.com/rcn.png" group-title="Colombia", RCN HD (CO)
+https://rcnhd.cloudvideo.com.co/p/102/sp/10200/playManifest/entryId/0_5tmmh25f/format/applehttp/protocol/https/uiConfId/23448175/a.m3u8?referrer=aHR0cHM6Ly93d3cuY2FuYWxyY24uY29t&playSessionId=80f73152-ef4e-a9ef-6d43-16e048a1c5b0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nicepng.com/png/full/364-3646927_canal-uno-colombia-hd-2017-channel-1.png" group-title="Colombia", Canal 1 HD (CO)
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=8RSM2jJ3xHkc4OnLCnLspF7s0vmGAamz&sid=AkxpQdl14yjq69kPSwwLNx1D9oUle7Vr&pid=uCvpZMhsBhHywPXRnXMRogFVauG0nnjn&an=screen&at=web-app&av=v5.2.4&ref=https%3A%2F%2Fcanal1.com.co%2Fsenal-en-vivo&res=353x199&dnt=true
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="Colombia", Telecaribe HD (CO)
+https://dcs-live.apis.anvato.net/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?track=video-3&anvsid=i177078537-nace47aad-15e1-424e-b3ca-8c3217c57ce8&ts=1593961765&anvtrid=1817ddd8b68c143affa3311bc1cdef43
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Colombia", Telecaribe Plus
+https://live.telecaribe.co/plus/
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png" group-title="Colombia", Noticias Caracol Ahora 24/7. HD (CO)
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?uid=8RSM2jJ3xHkc4OnLCnLspF7s0vmGAamz&sid=AkxpQdl14yjq69kPSwwLNx1D9oUle7Vr&pid=OVqiz6hleKBe2HSs55ylr4OEeORGv8Zm&an=screen&at=web-app&av=v5.2.4&ref=https%3A%2F%2Fnoticias.caracoltv.com%2Fahora&res=373x210&dnt=true
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="noimage.png" group-title="Premium TecnoTV", A&E
+https://tecnoplay.club/cal/dk.php?c=124|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Premium TecnoTV", AXN (Mexico West)
+https://tecnoplay.club/cal/dk.php?c=125|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://1.bp.blogspot.com/-ELDg6zngGP4/T3qEgzgJAhI/AAAAAAAAE50/AUSVNfLV0K4/s1600/Animal+Planet.png" group-title="Premium TecnoTV", ANIMAL PLANET LatinAm
+https://tecnoplay.club/cal/dk.php?c=126|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="AMC Mexico" tvg-logo="https://image.flaticon.com/icons/png/512/870/870934.png" group-title="Premium TecnoTV", AMC Mexico
+https://tecnoplay.club/cal/dk.php?c=129|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="BBC WORLD (ES)" tvg-logo="https://uscpr.org/wp-content/uploads/2019/08/bbc-world-news-logo-png-6.png" group-title="Premium TecnoTV", BBC WORLD(ES)
+https://tecnoplay.club/cal/dk.php?c=131|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="Premium TecnoTV", BABY TV
+https://tecnoplay.club/cal/dk.php?c=132|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/bloomberg-television-logo-png-transparent.png" group-title="Premium TecnoTV", BLOOMBERG
+https://tecnoplay.club/cal/dk.php?c=133|User-Agent=.Darkiptv.com
+
+#EXTINF:-1 tvg-id="CNN ESP" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="Premium TecnoTV", CNN En Español Latin America
+https://tecnoplay.club/cal/dk.php?c=134|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="CNN Int(ES)" tvg-logo="noimage.png" group-title="Premium TecnoTV", CNN Int(ES)
+https://tecnoplay.club/cal/dk.php?c=135|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://i.dlpng.com/static/png/6822979_preview.png" group-title="Premium TecnoTV", Cartoon Network Mexico
+https://tecnoplay.club/cal/dk.php?c=140|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="noimage.png" group-title="Premium TecnoTV", CineCanal Mex
+https://tecnoplay.club/cal/dk.php?c=141|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="noimage.png" group-title="Premium TecnoTV", Comedy Central Latin America ??
+https://tecnoplay.club/cal/dk.php?c=150|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DW Español (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Premium TecnoTV", DW Español
+https://tecnoplay.club/cal/dk.php?c=152|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DE PELICULA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Premium TecnoTV", DE PELICULA PLUS
+https://tecnoplay.club/cal/dk.php?c=155|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Discovery%20Channel.png" group-title="Premium TecnoTV", Discovery Channel Mexico
+https://tecnoplay.club/cal/dk.php?c=157|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Discovery H&H  Mexico" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Premium TecnoTV", Discovery Home Health
+https://tecnoplay.club/cal/dk.php?c=158|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Premium TecnoTV", Discovery Kids Mexico
+https://tecnoplay.club/cal/dk.php?c=159|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="noimage.png" group-title="Premium TecnoTV", Discovery science Latin America
+https://tecnoplay.club/cal/dk.php?c=160|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Premium TecnoTV", Discovery Turbo Latin America
+https://tecnoplay.club/cal/dk.php?c=161|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Premium TecnoTV", DISCOVERY WORLD
+https://tecnoplay.club/cal/dk.php?c=162|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png" group-title="Premium TecnoTV", Discovery theater HD English
+https://tecnoplay.club/cal/dk.php?c=163|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="Premium TecnoTV", CO:Disney Channel
+https://tecnoplay.club/cal/dk.php?c=164|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISNEY JR." tvg-logo="https://assets.corusent.com/wp-content/uploads/2015/11/DisneyJunior_WebsiteLogo.png" group-title="Premium TecnoTV", Disney Junior Mexico
+https://tecnoplay.club/cal/dk.php?c=165|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="EL GOURMET" tvg-logo="noimage.png" group-title="Premium TecnoTV", EL GOURMET
+https://tecnoplay.club/cal/dk.php?c=168|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="https://www.bocaboca.com.br/cine-pitching/wp-content/uploads/2018/06/canal-e.png" group-title="Premium TecnoTV", E! Entertainment HD
+https://tecnoplay.club/cal/dk.php?c=167|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="Premium TecnoTV", Disney XD Mexico
+https://tecnoplay.club/cal/dk.php?c=166|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Premium TecnoTV", MAS CHIC
+https://tecnoplay.club/cal/dk.php?c=169|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="MTV HITS" tvg-logo="https://seeklogo.com/images/M/mtv-hits-italy-logo-904E1CA98E-seeklogo.com.png" group-title="Premium TecnoTV", MTV Hits Latin America
+https://tecnoplay.club/cal/dk.php?c=170|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/MTV-Logo.png" group-title="Premium TecnoTV", MTV(ES)
+https://tecnoplay.club/cal/dk.php?c=171|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="Premium TecnoTV", Lifetime HD
+https://tecnoplay.club/cal/dk.php?c=172|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Premium TecnoTV", CO:Investigacion Discovery Latin Am
+https://tecnoplay.club/cal/dk.php?c=173|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ISAT" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9fcae-viejo-isat000.gif" group-title="Premium TecnoTV", ISAT
+https://tecnoplay.club/cal/dk.php?c=174|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-logo="https://www.nicepng.com/png/full/177-1779538_h2more2history-h2-hd.png" group-title="Premium TecnoTV", H2 History
+https://tecnoplay.club/cal/dk.php?c=176|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="Premium TecnoTV", History Channel Mexico HD
+https://tecnoplay.club/cal/dk.php?c=177|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="noimage.png" group-title="Premium TecnoTV", TELEMUNDO INTERNACIONAL
+https://tecnoplay.club/cal/dk.php?c=233|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Premium TecnoTV", TNT
+https://tecnoplay.club/cal/dk.php?c=235|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://logosolusa.com/wp-content/uploads/parser/TLC-Logo-1.png" group-title="Premium TecnoTV", TLC Mexico HD
+https://tecnoplay.club/cal/dk.php?c=236|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sundance-channel-logo-png-transparent.png" group-title="Premium TecnoTV", SUNDANCE
+https://tecnoplay.club/cal/dk.php?c=239|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Premium TecnoTV", Studio Universal HD
+https://tecnoplay.club/cal/dk.php?c=240|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Space.png" group-title="Premium TecnoTV", Space Latin Am Mexico HD
+https://tecnoplay.club/cal/dk.php?c=241|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://4.bp.blogspot.com/-tPiiNp6Lpfw/Vr12vg0m3uI/AAAAAAAAzAE/cphZZNMj0vQ/s1600/Canal_Sony-logo.png" group-title="Premium TecnoTV", CO:Canal Sony
+https://tecnoplay.club/cal/dk.php?c=242|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://4.bp.blogspot.com/-t_fa5KqTm8A/WA4wOhycBgI/AAAAAAAAxiQ/aiDTD6B8yB89OsWCmrqnIqhLrHMnS9SVwCLcB/s640/paramount.png" group-title="Premium TecnoTV", PARAMOUNT CHANNEL
+https://tecnoplay.club/cal/dk.php?c=245|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Premium TecnoTV", DISTRITO COMEDIA
+https://tecnoplay.club/cal/dk.php?c=274|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Fox Premium Movies" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="Premium TecnoTV", Fox Premium Movies
+https://tecnoplay.club/cal/dk.php?c=289|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Premium TecnoTV", CO:HBO Plus
+https://tecnoplay.club/cal/dk.php?c=180|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="Premium TecnoTV", HBO SIGNATURE
+https://tecnoplay.club/cal/dk.php?c=182|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Premium TecnoTV", HBO FAMILY
+https://tecnoplay.club/cal/dk.php?c=183|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="noimage.png" group-title="Premium TecnoTV", HBO2 Latin America
+https://tecnoplay.club/cal/dk.php?c=184|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.dlpng.com/static/png/6682032_preview.png" group-title="Premium TecnoTV", HBO Oeste (LatAm)
+https://tecnoplay.club/cal/dk.php?c=185|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="FOX Premium TV FAMILY" tvg-logo="https://lh3.googleusercontent.com/proxy/G_S9OrzPJ1eGGYuvmuhvgsch72clLLlbw4xmSnIAdCfbM2lDr88vrK5FV6170UVa2YhFv_l72BOvvb7HNrycSJ5wAzxGBhbC0gxD4XxNODkETqoack9FtzpebWAgL4q_O14KMpDuaXQjd7NC7maOO7My" group-title="Premium TecnoTV", FOX Premium Family Oeste
+https://tecnoplay.club/cal/dk.php?c=205|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Premium TecnoTV", Max Up Mexico
+https://tecnoplay.club/cal/dk.php?c=256|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-logo="noimage.png" group-title="Premium TecnoTV", NatGeo Kids
+https://tecnoplay.club/cal/dk.php?c=258|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA TAINMENT" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Ultra-Tainment-Logo.png" group-title="Premium TecnoTV", Canal Ultra Tainment(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=350|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA MEX" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Ultra%20Mex.png" group-title="Premium TecnoTV", Canal Ultra Mex(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=351|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA MACHO" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Ultra%20Mex.png" group-title="Premium TecnoTV", Canal Ultra Macho(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=352|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA LUNA" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Ultra_luna_1567021129869.png" group-title="Premium TecnoTV", Canal Ultra Luna(latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=353|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA KIDZ" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidz_NLogo.png" group-title="Premium TecnoTV", Canal Ultra Kidz(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=354|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA FILM" tvg-logo="noimage.png" group-title="Premium TecnoTV", Canal Ultra Film(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=355|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA FIESTA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiestaLogoBlack.png" group-title="Premium TecnoTV", Canal Ultra Fiesta(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=356|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA FAMILIA" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/06/Ultra-Familia-Logo.png" group-title="Premium TecnoTV", Canal Ultra Familia(Latino)(Usa)
+https://tecnoplay.club/cal/dk.php?c=357|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Canal Ultra Docu(Latino)(Usd)" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/04/Ultra_luna_1567021129869.png" group-title="Premium TecnoTV", Canal Ultra Docu(Latino)(Usd)
+https://tecnoplay.club/cal/dk.php?c=358|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="ULTRA CLASICO" tvg-logo="noimage.png" group-title="Premium TecnoTV", Canal Ultra Clasico(Latino)(Usd)
+https://tecnoplay.club/cal/dk.php?c=359|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Canal Ultra Cine(Latino)(Usd)" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="Premium TecnoTV", Canal Ultra Cine(Latino)(Usd)
+https://tecnoplay.club/cal/dk.php?c=360|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="CO: CINE LATINO" tvg-logo="noimage.png" group-title="Premium TecnoTV", Cine Latino
+https://tecnoplay.club/cal/dk.php?c=142|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Premium TecnoTV", Canal DHE
+https://tecnoplay.club/cal/dk.php?c=151|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="DW AMERICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Premium TecnoTV", DW Espanol (MX)
+https://tecnoplay.club/cal/dk.php?c=154|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Barnie y sus amigos 24/7" tvg-logo="noimage.png" group-title="Premium TecnoTV", Barnie y sus amigos 24/7
+https://tecnoplay.club/cal/dk.php?c=23|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Dora la exploradora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Dora_the_Explorer_logo.png" group-title="Premium TecnoTV", Dora la exploradora
+https://tecnoplay.club/cal/dk.php?c=24|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="PJ Masks" tvg-logo="noimage.png" group-title="Premium TecnoTV", PJ Masks
+https://tecnoplay.club/cal/dk.php?c=25|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="caillou" tvg-logo="noimage.png" group-title="Premium TecnoTV", caillou
+https://tecnoplay.club/cal/dk.php?c=26|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Jorge el Curioso" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Jorge%20el%20Curioso.png" group-title="Premium TecnoTV", Jorge el Curioso
+https://tecnoplay.club/cal/dk.php?c=27|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="peppa pig" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Peppa%20Pig.png" group-title="Premium TecnoTV", peppa pig
+https://tecnoplay.club/cal/dk.php?c=28|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="happy tree friends" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2013/03/happy-tree-friends-vector.png" group-title="Premium TecnoTV", happy tree friends
+https://tecnoplay.club/cal/dk.php?c=29|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Los picapiedras" tvg-logo="https://www.desicomments.com/wp-content/uploads/2017/02/Fred-Flintstone-With-His-Family.gif" group-title="Premium TecnoTV", Los picapiedras
+https://tecnoplay.club/cal/dk.php?c=30|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Le temes a la oscuridad" tvg-logo="https://fanart.tv/fanart/tv/77960/hdtvlogo/are-you-afraid-of-the-dark-5da281e9bbafa.png" group-title="Premium TecnoTV", Le temes a la oscuridad
+https://tecnoplay.club/cal/dk.php?c=31|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Pantera Rosa 80s" tvg-logo="noimage.png" group-title="Premium TecnoTV", Pantera Rosa 80s
+https://tecnoplay.club/cal/dk.php?c=32|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Correcaminos" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Corre%20Camino.png" group-title="Premium TecnoTV", Correcaminos
+https://tecnoplay.club/cal/dk.php?c=33|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Cuentos Hermanos Grimm" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Cuentos%20H.%20Grimm.png" group-title="Premium TecnoTV", Cuentos Hermanos Grimm
+https://tecnoplay.club/cal/dk.php?c=35|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Robotech" tvg-logo="noimage.png" group-title="Premium TecnoTV", Robotech
+https://tecnoplay.club/cal/dk.php?c=36|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Estrenos 2018" tvg-logo="noimage.png" group-title="Premium TecnoTV", Estrenos 2018
+https://tecnoplay.club/cal/dk.php?c=37|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="El Chapulin Colorado" tvg-logo="noimage.png" group-title="Premium TecnoTV", El Chapulin Colorado
+https://tecnoplay.club/cal/dk.php?c=38|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Death Note" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Death%20Note.png" group-title="Premium TecnoTV", Death Note
+https://tecnoplay.club/cal/dk.php?c=39|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="CSI Miami" tvg-logo="https://fanart.tv/fanart/tv/78310/hdclearart/csi-miami-51dd9b00b5ed2.png" group-title="Premium TecnoTV", CSI Miami
+https://tecnoplay.club/cal/dk.php?c=40|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Alf" tvg-logo="https://i.imgur.com/czR0lFS.png" group-title="Premium TecnoTV", Alf
+https://tecnoplay.club/cal/dk.php?c=41|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="X-men 90s" tvg-logo="noimage.png" group-title="Premium TecnoTV", X-men 90s
+https://tecnoplay.club/cal/dk.php?c=42|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Vete a la Versh" tvg-logo="noimage.png" group-title="Premium TecnoTV", Vete a la Versh
+https://tecnoplay.club/cal/dk.php?c=43|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Strangerthings" tvg-logo="https://lh3.googleusercontent.com/proxy/m_k5JpVOOJNE1OMYhQQVN5vgsttxwjEIF_Fux05vx6pHjekk-0DcCAl8P86sj0iAewp0wXFkh22Mr4jrUTmMbKJ1q4z542x2YgKi6CsQRIQDHizWUSOV7qWeweSoRAU" group-title="Premium TecnoTV", Strangerthings
+https://tecnoplay.club/cal/dk.php?c=46|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Spiderman 80s" tvg-logo="https://i.pinimg.com/originals/cf/c8/27/cfc827253e82e3aa6ad573e2727b2d57.png" group-title="Premium TecnoTV", Spiderman 80s
+https://tecnoplay.club/cal/dk.php?c=47|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Sounth Park" tvg-logo="https://cdn.poppriceguide.com/2016/12/South-Park.png" group-title="Premium TecnoTV", Sounth Park
+https://tecnoplay.club/cal/dk.php?c=48|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Smallville" tvg-logo="https://img.pngio.com/hd-render-clark-kent-smallville-season-9-dvd-cover-transparent-smallville-png-hd-470_684.png" group-title="Premium TecnoTV", Smallville
+https://tecnoplay.club/cal/dk.php?c=49|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Shera" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/Shera.png" group-title="Premium TecnoTV", Shera
+https://tecnoplay.club/cal/dk.php?c=50|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Sailormoon" tvg-logo="https://i.pinimg.com/originals/d4/31/19/d4311908bd52bdccc1adc3687e61aea5.png" group-title="Premium TecnoTV", Sailormoon
+https://tecnoplay.club/cal/dk.php?c=52|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Pokemon" tvg-logo="https://cdn.clipart.email/00d115fb4dda879f75df65a9c17cb432_toonarific-clipart-gallery_470-500.gif" group-title="Premium TecnoTV", Pokemon
+https://tecnoplay.club/cal/dk.php?c=53|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Pinky y Cerebro" tvg-logo="https://old.officialpsds.com/thumbs/Pinky-And-The-Brain-REQUESTED-psd9939.png" group-title="Premium TecnoTV", Pinky y Cerebro
+https://tecnoplay.club/cal/dk.php?c=54|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Peliculas Terror" tvg-logo="https://i.ya-webdesign.com/images/horror-text-png-5.png" group-title="Premium TecnoTV", Peliculas Terror
+https://tecnoplay.club/cal/dk.php?c=55|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Naruto" tvg-logo="https://i.pinimg.com/originals/85/3d/51/853d519f8daa2dd3525ce986721cb397.png" group-title="Premium TecnoTV", Naruto
+https://tecnoplay.club/cal/dk.php?c=57|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Mazinger Z" tvg-logo="noimage.png" group-title="Premium TecnoTV", Mazinger Z
+https://tecnoplay.club/cal/dk.php?c=58|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Luis Miguel" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/luis-miguel-png-2.png" group-title="Premium TecnoTV", Luis Miguel
+https://tecnoplay.club/cal/dk.php?c=60|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Los Simpsons" tvg-logo="https://www.theloquitur.com/wp-content/uploads/2018/10/simpsons_PNG63.png" group-title="Premium TecnoTV", Los Simpsons
+https://tecnoplay.club/cal/dk.php?c=63|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="La Rosa de Guadalupe" tvg-logo="https://static.lared.cl/wp-content/uploads/2019/11/19152919/LA-ROSA-DE-GUADALUPE-480X480.png" group-title="Premium TecnoTV", La Rosa de Guadalupe
+https://tecnoplay.club/cal/dk.php?c=64|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Heman" tvg-logo="https://raw.githubusercontent.com/Midaz1016/midaz-project-1/master/HE-MAN.png" group-title="Premium TecnoTV", Heman
+https://tecnoplay.club/cal/dk.php?c=65|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Futurama" tvg-logo="https://pngimg.com/uploads/futurama/futurama_PNG90.png" group-title="Premium TecnoTV", Futurama
+https://tecnoplay.club/cal/dk.php?c=67|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Coraje el perro cobarde" tvg-logo="https://storage.googleapis.com/stickers-mirror.appspot.com/stickers_storage/2020/01/23/file_1842497.png" group-title="Premium TecnoTV", Coraje el perro cobarde
+https://tecnoplay.club/cal/dk.php?c=73|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="El chavo" tvg-logo="noimage.png" group-title="Premium TecnoTV", El chavo
+https://tecnoplay.club/cal/dk.php?c=77|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
+#EXTINF:-1 tvg-id="Bob Esponja" tvg-logo="https://i.pinimg.com/originals/57/49/21/574921ff617242a9b415caac28edac57.png" group-title="Premium TecnoTV", Bob Esponja
+https://tecnoplay.club/cal/dk.php?c=80|User-Agent=.Darkiptv.com                                                                                                   --- .                            .
+
